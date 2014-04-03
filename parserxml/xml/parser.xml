@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CFX>
+	<HEAD>
+		<MSGID>Oaas00000100120131125165904000092</MSGID>
+		<USERID>User000</USERID>
+		<PASSWORD>96e79218965eb72c92a549dd5a330112</PASSWORD>
+		<TRANSTYPE>PreAuth</TRANSTYPE>
+	</HEAD>
+	<MSG>
+		<Request>
+			<CardNo>460103198011080314</CardNo>
+			<ExpiryDate>1510</ExpiryDate>
+			<BatchNum>131126</BatchNum>
+			<TraceNum>000001</TraceNum>
+			<Amount>000000000200</Amount>
+			<Memo>
+				<VIPSign>N</VIPSign>
+				<CardHolderInfo>
+					<Name>张三</Name>
+					<CertType>01</CertType>
+					<CertNo>110101199011220652</CertNo>
+					<PhoneNo>13911223344</PhoneNo>
+				</CardHolderInfo>
+				<BookingCustomerName>张三</BookingCustomerName>
+				<CardFirstOrderSign>Y</CardFirstOrderSign>
+				<DialInPhoneNo>13911223344</DialInPhoneNo>
+				<DialInPhoneFirstOrderSign>N</DialInPhoneFirstOrderSign>
+				<CardHolderInPassengerSign>Y</CardHolderInPassengerSign>
+				<OneWayOrderSign>Y</OneWayOrderSign>
+				<DerivativeSign>Y</DerivativeSign>
+				<TripInfos>
+					<TripInfo>
+						<PassengerName>张三</PassengerName>
+						<PassengerTpye>A</PassengerTpye>
+						<PassengerCertType>01</PassengerCertType>
+						<PassengerCertNo>110101199011220652</PassengerCertNo>
+						<PassengerNation>CHN</PassengerNation>
+						<PassengerMemberClass>G</PassengerMemberClass>
+						<FlightDepartCity>北京</FlightDepartCity>
+						<FlightArrivalCity>上海</FlightArrivalCity>
+						<FlightDepartTime>2013-11-20 19:00</FlightDepartTime>
+						<FlightInterval>24</FlightInterval>
+						<FlightTripType>C</FlightTripType>
+					</TripInfo>
+					<TripInfo>
+						<PassengerName>李四</PassengerName>
+						<PassengerTpye>C</PassengerTpye>
+						<PassengerCertType>01</PassengerCertType>
+						<PassengerCertNo>1101012008011220238</PassengerCertNo>
+						<PassengerNation>CHN</PassengerNation>
+						<PassengerMemberClass>N</PassengerMemberClass>
+						<FlightDepartCity>广州</FlightDepartCity>
+						<FlightArrivalCity>成都</FlightArrivalCity>
+						<FlightDepartTime>2013-12-01 9:10</FlightDepartTime>
+						<FlightInterval>3</FlightInterval>
+						<FlightTripType>D</FlightTripType>
+					</TripInfo>
+				</TripInfos>
+			</Memo>
+		</Request>
+	</MSG>
+</CFX>
