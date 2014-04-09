@@ -712,14 +712,14 @@ if((567 & 0x04 == 0x04)){
  */
 
 
-$flag = 567;
+$flag = 789;
 echo $flag & 0x04;
 echo "<br>";
 echo 0x04;
 echo "<br>";
 
 if(($flag & 0x04) == 0x04){
-	echo 'OK';
+	echo 'SUCCESS';
 }else{
 	echo 'NO';
 }
