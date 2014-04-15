@@ -7,4 +7,5 @@ $arr = array (
 				) 
 		) 
 );
+var_dump($arr);
 

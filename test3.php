@@ -24,3 +24,5 @@ class Test_Db_Table extends Zend_Db_Table{
 class Test_Db_Table extends Zend_Db_Table_Abstract{
 
 }
+
+echo "hello";
