@@ -726,6 +726,8 @@ if(($flag & 0x04) == 0x04){
 echo "<br>";
 */
 
+$cardNo = '123456789';
+echo substr($cardNo, 0, -4);
 
 
 
