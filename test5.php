@@ -719,10 +719,11 @@ echo 0x04;
 echo "<br>";
 
 if(($flag & 0x04) == 0x04){
-	echo 'OK';
+	echo 'SUCCESS';
 }else{
 	echo 'NO';
 }
+echo "<br>";
 */
 
 
