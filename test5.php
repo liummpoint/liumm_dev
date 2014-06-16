@@ -711,8 +711,8 @@ if((567 & 0x04 == 0x04)){
 }
  */
 
-
-$flag = 789;
+/*
+$flag = 12;
 echo $flag & 0x04;
 echo "<br>";
 echo 0x04;
@@ -724,6 +724,8 @@ if(($flag & 0x04) == 0x04){
 	echo 'NO';
 }
 echo "<br>";
+*/
+
 
 
 
